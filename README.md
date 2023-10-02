@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account.
-
 ### Date created
 29/09/2023 by Daniel Jaramillo
 

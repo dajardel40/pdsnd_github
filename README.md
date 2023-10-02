@@ -12,6 +12,9 @@ This project is created to simulate a realistic workflow to refactor the previou
 bikeshare.py , chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-I use this link as a reference: https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/tree/master
+I use this links as a reference: 
+https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/tree/master
+
+https://www.freecodecamp.org/news/git-diff-command/
 
 

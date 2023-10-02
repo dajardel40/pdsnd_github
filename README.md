@@ -1,17 +1,20 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+29/09/2023 by Daniel Jaramillo
 
 ### Project Title
-Replace the Project Title
+Project: Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This project is created to simulate a realistic workflow to refactor the previous Project 2 using Git and Github.
 
 ### Files used
-Include the files used
+bikeshare.py , chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I use this links as a reference: 
+https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/tree/master
+
+https://www.freecodecamp.org/news/git-diff-command/
+
 
